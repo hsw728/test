@@ -22,4 +22,4 @@ System.out.println("코드 박스");
 위와 같이 감싸면 코드 박스가 되며, 안에 코드를 작성한다.  
 (따옴표 아님 주의!)  
   
-<img src=https://user-images.githubusercontent.com/87905916/136490585-c5691c81-0f15-42a0-bfe0-b6dbdc012084.png" width="300" height="591">
+<img src="https://user-images.githubusercontent.com/87905916/136490097-2e5261fe-25cb-4dfa-b050-5dc6068cb934.png" width="300" height="591">
